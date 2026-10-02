@@ -48,8 +48,8 @@ Follow these steps to clone the project, configure your access, and launch your 
 ### Step 1: Clone the Repository
 Open your command prompt or terminal and download the repository:
 ```bash
-git clone https://github.com
-cd docker-vscode-server
+git clone https://github.com/DevrajSinghShikhari/Docker-VS-Code-Server.git
+cd Docker-VS-Code-Server
 ```
 
 ### Step 2: Build the Docker Image
